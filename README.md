@@ -18,11 +18,7 @@ Problems are organized by topic (Arrays, Strings, HashMap, etc.) and include:
 ## Progress
 | Topic      | Problems Solved |
 |------------|-----------------|
-| Arrays     | 2               |
-| Strings    | 2               |
-| HashMaps   | 1               |
-| LinkedList | 1               |
-| Total      | 6               |
+|         |
 
 ##  Getting Started
 Each file contains:
