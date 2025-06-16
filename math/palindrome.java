@@ -4,7 +4,7 @@
 // Date Solved: 15 June 2025
 
 class Solution {
-    public boolean isPalindrome(int x) {
+    public boolean palindrome(int x) {
 // Negative numbers and numbers ending in 0 (except 0 itself) are not palindrome
         if (x < 0 || (x % 10 == 0 && x != 0)) return false;
 
