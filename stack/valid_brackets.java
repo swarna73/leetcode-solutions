@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 class Solution {
-    public boolean isValid(String s) {
+    public boolean valid_brackets(String s) {
         Stack<Character> stackofBrackets = new Stack<>();
 
         for (char c : s.toCharArray()) {
